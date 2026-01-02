@@ -1,0 +1,1 @@
+const service_ynsm = <T>(args: T): T => { return args; };
