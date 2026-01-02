@@ -1,0 +1,1 @@
+const util_1b1c = (d: any) => d;
